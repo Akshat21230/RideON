@@ -10,8 +10,6 @@ RideOn is a DBMS project that simulates a ride-sharing service. This project inc
 - [Installation](#installation)
 - [Usage](#usage)
 - [Functions](#functions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
