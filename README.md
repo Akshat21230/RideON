@@ -30,26 +30,26 @@ RideOn is designed to help users manage and interact with a ride-sharing service
 ## Installation
 
 1. **Clone the repository**:
-    \`\`\`sh
+    ```sh
     git clone https://github.com/your-username/RideOn.git
     cd RideOn
-    \`\`\`
+    ```
 
 2. **Install the required Python libraries**:
-    \`\`\`sh
+    ```sh
     pip install mysql-connector-python pandas tabulate
-    \`\`\`
+    ```
 
 3. **Set up the MySQL database**:
     - Make sure you have MySQL installed and running.
-    - Update the database connection parameters in the script (\`host\`, \`user\`, \`passwd\`) as per your MySQL setup.
+    - Update the database connection parameters in the script (\host\, \user\, \passwd\) as per your MySQL setup.
 
 ## Usage
 
 1. **Run the script**:
-    \`\`\`sh
+    ```sh
     python3 RideOn.py
-    \`\`\`
+    ```
 
 2. **Follow the on-screen menu options to interact with the database**.
 
