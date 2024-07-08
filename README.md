@@ -31,7 +31,7 @@ RideOn is designed to help users manage and interact with a ride-sharing service
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/RideOn.git
+    git clone https://github.com/Akshat21230/RideOn.git
     cd RideOn
     ```
 
